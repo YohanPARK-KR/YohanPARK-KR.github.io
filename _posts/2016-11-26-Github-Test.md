@@ -2,6 +2,7 @@
 layout: post
 title: "Github 에 블로그 개설"
 date: 2016-11-26 10:00
+comments: true
 ---
 
 # H1
